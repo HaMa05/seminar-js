@@ -10,7 +10,7 @@ typeof age;
 let male = true;
 typeof male;
 
-// Boolean
+// Null
 let empty = null;
 typeof empty;
 
